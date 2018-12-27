@@ -1,1 +1,1 @@
-echo "Hello World" > Splash.html
+echo "Hello World" > index.html
